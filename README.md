@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**NimishaRimal/NimishaRimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
